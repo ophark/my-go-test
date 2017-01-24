@@ -10,7 +10,7 @@ func main() {
 	fmt.Println("#########")
 	//fmt.Println(equal(3, 3))
 	//fmt.Printf("%c\n", test_if(50))
-	//echo()
+	echo()
 	//echo1()
 	//echo2()
 	/*********/
